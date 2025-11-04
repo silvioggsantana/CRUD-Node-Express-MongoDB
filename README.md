@@ -1,4 +1,4 @@
-# 🐾 CRUD Node + Express + MongoDB
+# CRUD Node + Express + MongoDB
 
 Este projeto é uma **API simples** desenvolvida com **Node.js**, **Express** e **MongoDB**, utilizando o **Mongoose** como ORM.  
 O objetivo é demonstrar os conceitos básicos de um CRUD (Create, Read, Update, Delete) integrando com um banco de dados NoSQL.
