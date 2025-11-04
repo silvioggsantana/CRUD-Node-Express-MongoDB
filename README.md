@@ -22,7 +22,7 @@ CRUD-Node-Express-MongoDB/
 │
 ├── src/
 │   ├── server.js          # Arquivo principal do servidor
-│   └── src\vendaMensal.js # Schema sobre a collection vendaMensal
+│   └── vendaMensal.js # Schema sobre a collection vendaMensal
 ├── .env                  # Variáveis de ambiente (URI do MongoDB)
 ├── package.json          # Dependências e scripts
 ├── .gitignore
